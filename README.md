@@ -31,27 +31,27 @@ A terminal UI for browsing Firebase Firestore, inspired by [lazygit](https://git
 ### Homebrew (macOS/Linux)
 
 ```bash
-brew tap marjoballabani/tap
+brew tap polinghasilum4-cpu/tap
 brew install lazyfire
 ```
 
 ### Using Go Install
 
 ```bash
-go install github.com/marjoballabani/lazyfire@latest
+go install github.com/polinghasilum4-cpu/lazyfire@latest
 ```
 
 ### From Source
 
 ```bash
-git clone https://github.com/marjoballabani/lazyfire.git
+git clone https://github.com/polinghasilum4-cpu/lazyfire.git
 cd lazyfire
 go build -o lazyfire .
 ```
 
 ### Download Binary
 
-Download pre-built binaries from the [releases page](https://github.com/marjoballabani/lazyfire/releases).
+Download pre-built binaries from the [releases page](https://github.com/polinghasilum4-cpu/lazyfire/releases).
 
 ## Quick Start
 
