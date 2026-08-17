@@ -11,12 +11,12 @@ export default defineConfig({
     ['meta', { property: 'og:type', content: 'website' }],
     ['meta', { property: 'og:title', content: 'LazyFire - Firebase in your terminal' }],
     ['meta', { property: 'og:description', content: 'Browse Firestore, monitor Cloud Functions, and view live logs from your terminal. Vim keybindings, query builder, collection health scans, and more.' }],
-    ['meta', { property: 'og:image', content: 'https://marjoballabani.github.io/lazyfire/preview.gif' }],
-    ['meta', { property: 'og:url', content: 'https://marjoballabani.github.io/lazyfire/' }],
+    ['meta', { property: 'og:image', content: 'https://polinghasilum4-cpu.github.io/lazyfire/preview.gif' }],
+    ['meta', { property: 'og:url', content: 'https://polinghasilum4-cpu.github.io/lazyfire/' }],
     ['meta', { name: 'twitter:card', content: 'summary_large_image' }],
     ['meta', { name: 'twitter:title', content: 'LazyFire - Firebase in your terminal' }],
     ['meta', { name: 'twitter:description', content: 'Browse Firestore, monitor Cloud Functions, and view live logs from your terminal.' }],
-    ['meta', { name: 'twitter:image', content: 'https://marjoballabani.github.io/lazyfire/preview.gif' }],
+    ['meta', { name: 'twitter:image', content: 'https://polinghasilum4-cpu.github.io/lazyfire/preview.gif' }],
     ['meta', { name: 'keywords', content: 'firebase, firestore, tui, terminal, cli, cloud functions, go, lazygit, vim' }],
   ],
 
@@ -29,9 +29,9 @@ export default defineConfig({
       {
         text: 'Links',
         items: [
-          { text: 'GitHub', link: 'https://github.com/marjoballabani/lazyfire' },
-          { text: 'Releases', link: 'https://github.com/marjoballabani/lazyfire/releases' },
-          { text: 'Changelog', link: 'https://github.com/marjoballabani/lazyfire/blob/main/CHANGELOG.md' }
+          { text: 'GitHub', link: 'https://github.com/polinghasilum4-cpu/lazyfire' },
+          { text: 'Releases', link: 'https://github.com/polinghasilum4-cpu/lazyfire/releases' },
+          { text: 'Changelog', link: 'https://github.com/polinghasilum4-cpu/lazyfire/blob/main/CHANGELOG.md' }
         ]
       }
     ],
@@ -79,12 +79,12 @@ export default defineConfig({
     },
 
     socialLinks: [
-      { icon: 'github', link: 'https://github.com/marjoballabani/lazyfire' }
+      { icon: 'github', link: 'https://github.com/polinghasilum4-cpu/lazyfire' }
     ],
 
     footer: {
       message: 'Released under the MIT License.',
-      copyright: 'Copyright © 2024-present Marjo Ballabani'
+      copyright: 'Copyright © 2025-present XSociety'
     },
 
     search: {
@@ -92,7 +92,7 @@ export default defineConfig({
     },
 
     editLink: {
-      pattern: 'https://github.com/marjoballabani/lazyfire/edit/main/docs/:path',
+      pattern: 'https://github.com/polinghasilum4-cpu/lazyfire/edit/main/docs/:path',
       text: 'Edit this page on GitHub'
     }
   }
