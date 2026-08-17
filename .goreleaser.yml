@@ -42,7 +42,7 @@ checksum:
 release:
   footer: |
     ---
-    **Full Changelog**: https://github.com/marjoballabani/lazyfire/blob/main/CHANGELOG.md
+    **Full Changelog**: https://github.com/polinghasilum4-cpu/lazyfire/blob/main/CHANGELOG.md
 
 changelog:
   # Use CHANGELOG.md content if available, otherwise generate from commits
@@ -60,11 +60,11 @@ brews:
   - ids:
       - versioned
     repository:
-      owner: marjoballabani
+      owner: xsociety
       name: homebrew-tap
       token: "{{ .Env.HOMEBREW_TAP_GITHUB_TOKEN }}"
     directory: Formula
-    homepage: https://github.com/marjoballabani/lazyfire
+    homepage: https://github.com/polinghasilum4-cpu/lazyfire
     description: Terminal UI for browsing Firebase Firestore
     license: MIT
     install: |
