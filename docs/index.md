@@ -14,7 +14,7 @@ hero:
       link: /guide/getting-started
     - theme: alt
       text: View on GitHub
-      link: https://github.com/marjoballabani/lazyfire
+      link: https://github.com/polinghasilum4-cpu/lazyfire
 
 features:
   - icon:
@@ -80,7 +80,7 @@ import { withBase } from 'vitepress'
     <div class="terminal-body">
       <div class="terminal-line">
         <span class="terminal-prompt">$</span>
-        <span class="terminal-cmd">brew install marjoballabani/tap/lazyfire</span>
+        <span class="terminal-cmd">brew install polinghasilum4-cpu/tap/lazyfire</span>
       </div>
       <div class="terminal-line">
         <span class="terminal-prompt">$</span>
@@ -91,7 +91,7 @@ import { withBase } from 'vitepress'
   <div class="quick-start-alt">
     <div class="alt-method">
       <span class="alt-label">Go</span>
-      <code>go install github.com/marjoballabani/lazyfire@latest</code>
+      <code>go install github.com/polinghasilum4-cpu/lazyfire@latest</code>
     </div>
     <div class="alt-method">
       <span class="alt-label">Binary</span>
